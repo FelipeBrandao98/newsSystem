@@ -1,0 +1,41 @@
+#
+#
+# newsSyste.backend
+#
+#
+
+# compiled output
+newsSystem.backend/newsSystem.nest/dist
+newsSystem.backend/newsSystem.nest/node_modules
+
+# Logs
+newsSystem.backend/newsSystem.nest/logs
+newsSystem.backend/newsSystem.nest/*.log
+newsSystem.backend/newsSystem.nest/npm-debug.log*
+newsSystem.backend/newsSystem.nest/pnpm-debug.log*
+newsSystem.backend/newsSystem.nest/yarn-debug.log*
+newsSystem.backend/newsSystem.nest/yarn-error.log*
+newsSystem.backend/newsSystem.nest/lerna-debug.log*
+
+# OS
+newsSystem.backend/newsSystem.nest/.DS_Store
+
+# Tests
+newsSystem.backend/newsSystem.nest/coverage
+newsSystem.backend/newsSystem.nest/.nyc_output
+
+# IDEs and editors
+newsSystem.backend/newsSystem.nest/.idea
+newsSystem.backend/newsSystem.nest/.project
+newsSystem.backend/newsSystem.nest/.classpath
+newsSystem.backend/newsSystem.nest/.c9/
+newsSystem.backend/newsSystem.nest/*.launch
+newsSystem.backend/newsSystem.nest/.settings/
+newsSystem.backend/newsSystem.nest/*.sublime-workspace
+
+# IDE - VSCode
+newsSystem.backend/newsSystem.nest/.vscode/*
+newsSystem.backend/newsSystem.nest/!.vscode/settings.json
+newsSystem.backend/newsSystem.nest/!.vscode/tasks.json
+newsSystem.backend/newsSystem.nest/!.vscode/launch.json
+newsSystem.backend/newsSystem.nest/!.vscode/extensions.json
